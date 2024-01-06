@@ -3,9 +3,9 @@
 ### A calculator project 
 
 
-**  npm instal **
+** npm instal**
 
-~~ do not use node js 16 below version ~~
+~~do not use node js 16 below version~~
 
 *Some basic Git commands are:*
 
